@@ -19,6 +19,15 @@ body {
 color: #FFFFFF;
 }
 
+.main_list_section{
+font-size: 120%;
+font-weight: 200;
+}
+
+.float {
+float: left;
+}
+
 { float: none; }
 
 #thanks_body{{
