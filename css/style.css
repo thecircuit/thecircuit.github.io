@@ -94,6 +94,10 @@ border-top: solid 7px #00171F;
 border-bottom: solid 7px #00171F;
 }
 
+#YouTube {
+float:left;
+}
+
 #below {
 height: 80px;
 margin-top: -80px;
