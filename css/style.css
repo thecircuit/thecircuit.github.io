@@ -17,6 +17,7 @@ body {
   margin: 0;
   background-color: #00A8E8;
 color: #FFFFFF;
+height: 100%;
 }
 
 .main_list_section{
@@ -83,7 +84,8 @@ border-top: solid 10px #00171F;
 border-bottom: solid 10px #00171F;
 color: #FFFFFF;
 position: absolute;
-position: bottom;
+bottom: 0;
+left: 0;
 width: 100%;
 }
 
