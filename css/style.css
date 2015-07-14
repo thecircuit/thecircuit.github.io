@@ -18,7 +18,6 @@ body {
   background-color: #00A8E8;
 color: #FFFFFF;
 height: 100%;
-padding-bottom: 200px;
 }
 
 .main_list_section{
@@ -85,10 +84,6 @@ border-top: solid 10px #00171F;
 border-bottom: solid 10px #00171F;
 color: #FFFFFF;
 position: absolute;
-bottom: 0;
-left: 0;
-width: 100%;
-height:200px;
 }
 
 .movie {
